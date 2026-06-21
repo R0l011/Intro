@@ -1,3 +1,4 @@
+
 # Intro - 
 ![image alt](https://github.com/R0l011/Intro/blob/4fe4029b81beebb8350fc2b33b1c4bf020602e0c/830a15da24d2bd84b76b9d74f3d56199.jpg)
 
@@ -17,4 +18,8 @@ NUMBER 2 will be interests, fandoms and where you can find me.
 NUMBER 3 will be my DNI / fandoms I do not want to interact with.
 
 that's pretty much it for the table of content.
+
+
+
+
 
